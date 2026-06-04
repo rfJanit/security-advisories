@@ -1,0 +1,51 @@
+{
+    "package_name": "radvd",
+    "advisory": {
+        "12": {
+            "CVE-2026-48715": {
+                "cve_id": "CVE-2026-48715",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "HIGH",
+                "status": "fixed",
+                "events": [
+                    {
+                        "introduced": "1:2.19-2.1",
+                        "fixed": "1:2.20-1+b1"
+                    },
+                    {
+                        "introduced": "1:2.19-2.1",
+                        "fixed": "1:2.20-1+b1"
+                    },
+                    {
+                        "introduced": "1:2.19-2.1",
+                        "fixed": "1:2.20-1+b1"
+                    }
+                ]
+            }
+        },
+        "13": {
+            "CVE-2026-48715": {
+                "cve_id": "CVE-2026-48715",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "HIGH",
+                "status": "fixed",
+                "events": [
+                    {
+                        "introduced": "1:2.19-2.1",
+                        "fixed": "1:2.20-1+b1"
+                    },
+                    {
+                        "introduced": "1:2.19-2.1",
+                        "fixed": "1:2.20-1+b1"
+                    },
+                    {
+                        "introduced": "1:2.19-2.1",
+                        "fixed": "1:2.20-1+b1"
+                    }
+                ]
+            }
+        }
+    }
+}

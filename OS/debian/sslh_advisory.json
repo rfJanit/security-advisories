@@ -1,0 +1,61 @@
+{
+    "package_name": "sslh",
+    "advisory": {
+        "12": {
+            "CVE-2025-46807": {
+                "cve_id": "CVE-2025-46807",
+                "title": "A Allocation of Resources Without Limits or Throttling vulnerabil ...",
+                "description": "A Allocation of Resources Without Limits or Throttling vulnerability in sslh allows attackers to easily exhaust the file descriptors in sslh and deny legitimate users service.This issue affects sslh before 2.2.4.",
+                "severity": "MEDIUM",
+                "status": "fixed",
+                "events": [
+                    {
+                        "introduced": "0:1.20-1+b2",
+                        "fixed": "0:2.1.4-1+b1"
+                    }
+                ]
+            },
+            "CVE-2025-52936": {
+                "cve_id": "CVE-2025-52936",
+                "title": "Improper Link Resolution Before File Access ('Link Following') vu ...",
+                "description": "Improper Link Resolution Before File Access ('Link Following') vulnerability in yrutschle sslh.This issue affects sslh: before 2.2.2.",
+                "severity": "MEDIUM",
+                "status": "fixed",
+                "events": [
+                    {
+                        "introduced": "0:1.20-1+b2",
+                        "fixed": "0:1.20-1+deb11u1"
+                    }
+                ]
+            }
+        },
+        "13": {
+            "CVE-2025-46807": {
+                "cve_id": "CVE-2025-46807",
+                "title": "A Allocation of Resources Without Limits or Throttling vulnerabil ...",
+                "description": "A Allocation of Resources Without Limits or Throttling vulnerability in sslh allows attackers to easily exhaust the file descriptors in sslh and deny legitimate users service.This issue affects sslh before 2.2.4.",
+                "severity": "MEDIUM",
+                "status": "fixed",
+                "events": [
+                    {
+                        "introduced": "0:1.20-1+b2",
+                        "fixed": "0:2.1.4-1+b1"
+                    }
+                ]
+            },
+            "CVE-2025-52936": {
+                "cve_id": "CVE-2025-52936",
+                "title": "Improper Link Resolution Before File Access ('Link Following') vu ...",
+                "description": "Improper Link Resolution Before File Access ('Link Following') vulnerability in yrutschle sslh.This issue affects sslh: before 2.2.2.",
+                "severity": "MEDIUM",
+                "status": "fixed",
+                "events": [
+                    {
+                        "introduced": "0:1.20-1+b2",
+                        "fixed": "0:1.20-1+deb11u1"
+                    }
+                ]
+            }
+        }
+    }
+}
