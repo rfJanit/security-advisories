@@ -10,10 +10,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:1.7.0-1+b2"
+                        "introduced": "0:1.7.0-1"
                     },
                     {
-                        "introduced": "0:1.7.0-1+b2"
+                        "introduced": "0:1.7.0-1"
+                    },
+                    {
+                        "introduced": "0:1.7.0-1"
                     },
                     {
                         "introduced": "0:1.6.0-1"
@@ -30,10 +33,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:1.7.0-1+b2"
+                        "introduced": "0:1.7.0-1"
                     },
                     {
-                        "introduced": "0:1.7.0-1+b2"
+                        "introduced": "0:1.7.0-1"
+                    },
+                    {
+                        "introduced": "0:1.7.0-1"
                     },
                     {
                         "introduced": "0:1.6.0-1"

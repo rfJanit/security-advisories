@@ -128,6 +128,27 @@
                     }
                 ]
             },
+            "CVE-2026-44917": {
+                "cve_id": "CVE-2026-44917",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:21.1.0-3"
+                    }
+                ]
+            },
             "CVE-2026-44919": {
                 "cve_id": "CVE-2026-44919",
                 "title": "In OpenStack Ironic through 35.x before a3f6d73, during image han ...",
@@ -150,6 +171,48 @@
                     {
                         "introduced": "1:21.1.0-3",
                         "fixed": "1:35.0.1-3"
+                    }
+                ]
+            },
+            "CVE-2026-46447": {
+                "cve_id": "CVE-2026-46447",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:21.1.0-3"
+                    }
+                ]
+            },
+            "CVE-2026-48681": {
+                "cve_id": "CVE-2026-48681",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:21.1.0-3"
                     }
                 ]
             }
@@ -281,6 +344,27 @@
                     }
                 ]
             },
+            "CVE-2026-44917": {
+                "cve_id": "CVE-2026-44917",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:21.1.0-3"
+                    }
+                ]
+            },
             "CVE-2026-44919": {
                 "cve_id": "CVE-2026-44919",
                 "title": "In OpenStack Ironic through 35.x before a3f6d73, during image han ...",
@@ -303,6 +387,48 @@
                     {
                         "introduced": "1:21.1.0-3",
                         "fixed": "1:35.0.1-3"
+                    }
+                ]
+            },
+            "CVE-2026-46447": {
+                "cve_id": "CVE-2026-46447",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:21.1.0-3"
+                    }
+                ]
+            },
+            "CVE-2026-48681": {
+                "cve_id": "CVE-2026-48681",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:26.1.1-1"
+                    },
+                    {
+                        "introduced": "1:21.1.0-3"
                     }
                 ]
             }

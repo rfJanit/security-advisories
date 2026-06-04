@@ -841,8 +841,7 @@
                         "introduced": "1:7.0.6+dfsg-1"
                     },
                     {
-                        "introduced": "1:6.0.14+dfsg-1",
-                        "fixed": "1:6.0.14+dfsg-1+b1"
+                        "introduced": "1:6.0.14+dfsg-1"
                     }
                 ]
             },
@@ -888,8 +887,7 @@
                         "introduced": "1:7.0.6+dfsg-1"
                     },
                     {
-                        "introduced": "1:6.0.14+dfsg-1",
-                        "fixed": "1:6.0.14+dfsg-1+b1"
+                        "introduced": "1:6.0.14+dfsg-1"
                     }
                 ]
             },
@@ -910,8 +908,7 @@
                         "introduced": "1:7.0.6+dfsg-1"
                     },
                     {
-                        "introduced": "1:6.0.14+dfsg-1",
-                        "fixed": "1:6.0.14+dfsg-1+b1"
+                        "introduced": "1:6.0.14+dfsg-1"
                     }
                 ]
             },
@@ -932,8 +929,7 @@
                         "introduced": "1:7.0.6+dfsg-1"
                     },
                     {
-                        "introduced": "1:6.0.14+dfsg-1",
-                        "fixed": "1:6.0.14+dfsg-1+b1"
+                        "introduced": "1:6.0.14+dfsg-1"
                     }
                 ]
             }
@@ -1778,8 +1774,7 @@
                         "introduced": "1:7.0.6+dfsg-1"
                     },
                     {
-                        "introduced": "1:6.0.14+dfsg-1",
-                        "fixed": "1:6.0.14+dfsg-1+b1"
+                        "introduced": "1:6.0.14+dfsg-1"
                     }
                 ]
             },
@@ -1825,8 +1820,7 @@
                         "introduced": "1:7.0.6+dfsg-1"
                     },
                     {
-                        "introduced": "1:6.0.14+dfsg-1",
-                        "fixed": "1:6.0.14+dfsg-1+b1"
+                        "introduced": "1:6.0.14+dfsg-1"
                     }
                 ]
             },
@@ -1847,8 +1841,7 @@
                         "introduced": "1:7.0.6+dfsg-1"
                     },
                     {
-                        "introduced": "1:6.0.14+dfsg-1",
-                        "fixed": "1:6.0.14+dfsg-1+b1"
+                        "introduced": "1:6.0.14+dfsg-1"
                     }
                 ]
             },
@@ -1869,8 +1862,7 @@
                         "introduced": "1:7.0.6+dfsg-1"
                     },
                     {
-                        "introduced": "1:6.0.14+dfsg-1",
-                        "fixed": "1:6.0.14+dfsg-1+b1"
+                        "introduced": "1:6.0.14+dfsg-1"
                     }
                 ]
             }

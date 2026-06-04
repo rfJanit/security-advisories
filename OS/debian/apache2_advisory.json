@@ -885,13 +885,30 @@
             },
             "CVE-2026-49975": {
                 "cve_id": "CVE-2026-49975",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
-                "severity": "",
-                "status": "open",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
+                "severity": "MEDIUM",
+                "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:2.4.62-1~deb12u2"
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
+                    },
+                    {
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
+                    },
+                    {
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
+                    },
+                    {
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
+                    },
+                    {
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
                     }
                 ]
             }
@@ -1780,13 +1797,30 @@
             },
             "CVE-2026-49975": {
                 "cve_id": "CVE-2026-49975",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
-                "severity": "",
-                "status": "open",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
+                "severity": "MEDIUM",
+                "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:2.4.62-1~deb12u2"
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
+                    },
+                    {
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
+                    },
+                    {
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
+                    },
+                    {
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
+                    },
+                    {
+                        "introduced": "0:2.4.62-1~deb12u2",
+                        "fixed": "0:2.4.67-2"
                     }
                 ]
             }

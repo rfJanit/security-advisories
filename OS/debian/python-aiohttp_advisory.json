@@ -537,6 +537,48 @@
                         "fixed": "0:3.13.5-1"
                     }
                 ]
+            },
+            "CVE-2026-34993": {
+                "cve_id": "CVE-2026-34993",
+                "title": "AIOHTTP is an asynchronous HTTP client/server framework for async ...",
+                "description": "AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to version 3.14.0, using ``CookieJar.load()`` with untrusted input may allow arbitrary code execution. Most applications using this function will be doing so with the user's own data, so this is unlikely to affect many applications. Version 3.14.0 patches the issue. If an application does allow attacker controlled files to be loaded, a workaround on older releases would be to sanitize the files before loading.",
+                "severity": "MEDIUM",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.8.4-1+deb12u1"
+                    }
+                ]
+            },
+            "CVE-2026-47265": {
+                "cve_id": "CVE-2026-47265",
+                "title": "AIOHTTP is an asynchronous HTTP client/server framework for async ...",
+                "description": "AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to version 3.14.0, cookies set with the `cookies` parameter on requests are sent after following a cross-origin redirect. If a developer uses the `cookies` parameter on a per-request basis then sensitive data might be leaked to an attacker if they manage to control a redirect. Version 3.14.0 patches the issue. If unable to upgrade, using a `Cookie` header in the `headers` parameter is not vulnerable.",
+                "severity": "MEDIUM",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.8.4-1+deb12u1"
+                    }
+                ]
             }
         },
         "13": {
@@ -1073,6 +1115,48 @@
                     {
                         "introduced": "0:3.8.4-1+deb12u1",
                         "fixed": "0:3.13.5-1"
+                    }
+                ]
+            },
+            "CVE-2026-34993": {
+                "cve_id": "CVE-2026-34993",
+                "title": "AIOHTTP is an asynchronous HTTP client/server framework for async ...",
+                "description": "AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to version 3.14.0, using ``CookieJar.load()`` with untrusted input may allow arbitrary code execution. Most applications using this function will be doing so with the user's own data, so this is unlikely to affect many applications. Version 3.14.0 patches the issue. If an application does allow attacker controlled files to be loaded, a workaround on older releases would be to sanitize the files before loading.",
+                "severity": "MEDIUM",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.8.4-1+deb12u1"
+                    }
+                ]
+            },
+            "CVE-2026-47265": {
+                "cve_id": "CVE-2026-47265",
+                "title": "AIOHTTP is an asynchronous HTTP client/server framework for async ...",
+                "description": "AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to version 3.14.0, cookies set with the `cookies` parameter on requests are sent after following a cross-origin redirect. If a developer uses the `cookies` parameter on a per-request basis then sensitive data might be leaked to an attacker if they manage to control a redirect. Version 3.14.0 patches the issue. If unable to upgrade, using a `Cookie` header in the `headers` parameter is not vulnerable.",
+                "severity": "MEDIUM",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.10.10-2"
+                    },
+                    {
+                        "introduced": "0:3.8.4-1+deb12u1"
                     }
                 ]
             }

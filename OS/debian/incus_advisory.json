@@ -622,8 +622,8 @@
             },
             "CVE-2026-48753": {
                 "cve_id": "CVE-2026-48753",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
@@ -639,8 +639,8 @@
             },
             "CVE-2026-48754": {
                 "cve_id": "CVE-2026-48754",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
@@ -656,8 +656,8 @@
             },
             "CVE-2026-48756": {
                 "cve_id": "CVE-2026-48756",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
@@ -1297,8 +1297,8 @@
             },
             "CVE-2026-48753": {
                 "cve_id": "CVE-2026-48753",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
@@ -1314,8 +1314,8 @@
             },
             "CVE-2026-48754": {
                 "cve_id": "CVE-2026-48754",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
@@ -1331,8 +1331,8 @@
             },
             "CVE-2026-48756": {
                 "cve_id": "CVE-2026-48756",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [

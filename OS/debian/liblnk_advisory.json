@@ -10,13 +10,19 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
                     }
                 ]
             },
@@ -28,13 +34,19 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
                     }
                 ]
             },
@@ -46,13 +58,19 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
                     }
                 ]
             }
@@ -66,13 +84,19 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
                     }
                 ]
             },
@@ -84,13 +108,19 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
                     }
                 ]
             },
@@ -102,13 +132,19 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
                     },
                     {
-                        "introduced": "0:20181227-1.2+b1"
+                        "introduced": "0:20181227-1.2"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
+                    },
+                    {
+                        "introduced": "0:20181227-1.1"
                     }
                 ]
             }

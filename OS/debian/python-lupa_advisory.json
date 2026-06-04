@@ -7,19 +7,19 @@
                 "title": "Lupa integrates the runtimes of Lua or LuaJIT2 into CPython. In 2 ...",
                 "description": "Lupa integrates the runtimes of Lua or LuaJIT2 into CPython. In 2.6 and earlier, attribute_filter is not consistently applied when attributes are accessed through built-in functions like getattr and setattr. This allows an attacker to bypass the intended restrictions and eventually achieve arbitrary code execution.",
                 "severity": "CRITICAL",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.2+dfsg-1",
-                        "fixed": "0:2.4+dfsg-1+b1"
+                        "introduced": "0:2.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:2.2+dfsg-1",
-                        "fixed": "0:2.4+dfsg-1+b1"
+                        "introduced": "0:2.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:2.2+dfsg-1",
-                        "fixed": "0:2.4+dfsg-1+b1"
+                        "introduced": "0:2.2+dfsg-1"
+                    },
+                    {
+                        "introduced": "0:1.14.1+dfsg-1"
                     }
                 ]
             }
@@ -30,19 +30,19 @@
                 "title": "Lupa integrates the runtimes of Lua or LuaJIT2 into CPython. In 2 ...",
                 "description": "Lupa integrates the runtimes of Lua or LuaJIT2 into CPython. In 2.6 and earlier, attribute_filter is not consistently applied when attributes are accessed through built-in functions like getattr and setattr. This allows an attacker to bypass the intended restrictions and eventually achieve arbitrary code execution.",
                 "severity": "CRITICAL",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.2+dfsg-1",
-                        "fixed": "0:2.4+dfsg-1+b1"
+                        "introduced": "0:2.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:2.2+dfsg-1",
-                        "fixed": "0:2.4+dfsg-1+b1"
+                        "introduced": "0:2.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:2.2+dfsg-1",
-                        "fixed": "0:2.4+dfsg-1+b1"
+                        "introduced": "0:2.2+dfsg-1"
+                    },
+                    {
+                        "introduced": "0:1.14.1+dfsg-1"
                     }
                 ]
             }

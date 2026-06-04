@@ -10,7 +10,7 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:42.2-1+b3",
+                        "introduced": "0:42.2-1",
                         "fixed": "0:42.2-1+deb12u1"
                     }
                 ]
@@ -27,7 +27,7 @@
                         "fixed": "0:42.2-4+deb13u1"
                     },
                     {
-                        "introduced": "0:42.2-1+b3",
+                        "introduced": "0:42.2-1",
                         "fixed": "0:42.2-1+deb12u2"
                     }
                 ]
@@ -42,7 +42,7 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:42.2-1+b3",
+                        "introduced": "0:42.2-1",
                         "fixed": "0:42.2-1+deb12u1"
                     }
                 ]
@@ -59,7 +59,7 @@
                         "fixed": "0:42.2-4+deb13u1"
                     },
                     {
-                        "introduced": "0:42.2-1+b3",
+                        "introduced": "0:42.2-1",
                         "fixed": "0:42.2-1+deb12u2"
                     }
                 ]

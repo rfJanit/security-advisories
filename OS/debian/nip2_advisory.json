@@ -10,7 +10,10 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:8.9.1-1+b2"
+                        "introduced": "0:8.9.1-1"
+                    },
+                    {
+                        "introduced": "0:8.9.1-1"
                     },
                     {
                         "introduced": "0:8.7.1-4"
@@ -27,7 +30,10 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:8.9.1-1+b2"
+                        "introduced": "0:8.9.1-1"
+                    },
+                    {
+                        "introduced": "0:8.9.1-1"
                     },
                     {
                         "introduced": "0:8.7.1-4"

@@ -7,19 +7,16 @@
                 "title": "pure-ftpd before 1.0.52 is vulnerable to Buffer Overflow. There i ...",
                 "description": "pure-ftpd before 1.0.52 is vulnerable to Buffer Overflow. There is an out of bounds read in the domlsd() function of the ls.c file.",
                 "severity": "HIGH",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "0:1.0.50-2.2",
-                        "fixed": "0:1.0.50-2.2+b1"
+                        "introduced": "0:1.0.50-2.2"
                     },
                     {
-                        "introduced": "0:1.0.50-2.2",
-                        "fixed": "0:1.0.50-2.2+b1"
+                        "introduced": "0:1.0.50-2.2"
                     },
                     {
-                        "introduced": "0:1.0.50-2.1",
-                        "fixed": "0:1.0.50-2.1+b2"
+                        "introduced": "0:1.0.50-2.1"
                     }
                 ]
             }
@@ -30,19 +27,16 @@
                 "title": "pure-ftpd before 1.0.52 is vulnerable to Buffer Overflow. There i ...",
                 "description": "pure-ftpd before 1.0.52 is vulnerable to Buffer Overflow. There is an out of bounds read in the domlsd() function of the ls.c file.",
                 "severity": "HIGH",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "0:1.0.50-2.2",
-                        "fixed": "0:1.0.50-2.2+b1"
+                        "introduced": "0:1.0.50-2.2"
                     },
                     {
-                        "introduced": "0:1.0.50-2.2",
-                        "fixed": "0:1.0.50-2.2+b1"
+                        "introduced": "0:1.0.50-2.2"
                     },
                     {
-                        "introduced": "0:1.0.50-2.1",
-                        "fixed": "0:1.0.50-2.1+b2"
+                        "introduced": "0:1.0.50-2.1"
                     }
                 ]
             }

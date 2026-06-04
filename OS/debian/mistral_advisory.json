@@ -1,0 +1,51 @@
+{
+    "package_name": "mistral",
+    "advisory": {
+        "12": {
+            "CVE-2026-41283": {
+                "cve_id": "CVE-2026-41283",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "0:19.0.0-1"
+                    },
+                    {
+                        "introduced": "0:19.0.0-1"
+                    },
+                    {
+                        "introduced": "0:19.0.0-1"
+                    },
+                    {
+                        "introduced": "0:15.0.0-1"
+                    }
+                ]
+            }
+        },
+        "13": {
+            "CVE-2026-41283": {
+                "cve_id": "CVE-2026-41283",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
+                "severity": "",
+                "status": "open",
+                "events": [
+                    {
+                        "introduced": "0:19.0.0-1"
+                    },
+                    {
+                        "introduced": "0:19.0.0-1"
+                    },
+                    {
+                        "introduced": "0:19.0.0-1"
+                    },
+                    {
+                        "introduced": "0:15.0.0-1"
+                    }
+                ]
+            }
+        }
+    }
+}

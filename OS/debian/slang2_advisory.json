@@ -10,10 +10,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.3.3-5+b1"
+                        "introduced": "0:2.3.3-5"
                     },
                     {
-                        "introduced": "0:2.3.3-5+b1"
+                        "introduced": "0:2.3.3-5"
+                    },
+                    {
+                        "introduced": "0:2.3.3-5"
                     },
                     {
                         "introduced": "0:2.3.3-3"
@@ -28,10 +31,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.3.3-5+b1"
+                        "introduced": "0:2.3.3-5"
                     },
                     {
-                        "introduced": "0:2.3.3-5+b1"
+                        "introduced": "0:2.3.3-5"
+                    },
+                    {
+                        "introduced": "0:2.3.3-5"
                     },
                     {
                         "introduced": "0:2.3.3-3"
@@ -48,10 +54,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.3.3-5+b1"
+                        "introduced": "0:2.3.3-5"
                     },
                     {
-                        "introduced": "0:2.3.3-5+b1"
+                        "introduced": "0:2.3.3-5"
+                    },
+                    {
+                        "introduced": "0:2.3.3-5"
                     },
                     {
                         "introduced": "0:2.3.3-3"
@@ -66,10 +75,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.3.3-5+b1"
+                        "introduced": "0:2.3.3-5"
                     },
                     {
-                        "introduced": "0:2.3.3-5+b1"
+                        "introduced": "0:2.3.3-5"
+                    },
+                    {
+                        "introduced": "0:2.3.3-5"
                     },
                     {
                         "introduced": "0:2.3.3-3"

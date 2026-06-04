@@ -494,6 +494,10 @@
                         "fixed": "1:27.3.4.12+dfsg-1"
                     },
                     {
+                        "introduced": "1:25.3.2.12+dfsg-3",
+                        "fixed": "1:27.3.4.12+dfsg-1"
+                    },
+                    {
                         "introduced": "1:25.2.3+dfsg-1+deb12u1",
                         "fixed": "1:27.3.4.12+dfsg-1"
                     }
@@ -515,6 +519,10 @@
                         "fixed": "1:27.3.4.12+dfsg-1"
                     },
                     {
+                        "introduced": "1:25.3.2.12+dfsg-3",
+                        "fixed": "1:27.3.4.12+dfsg-1"
+                    },
+                    {
                         "introduced": "1:25.2.3+dfsg-1+deb12u1",
                         "fixed": "1:27.3.4.12+dfsg-1"
                     }
@@ -527,6 +535,10 @@
                 "severity": "LOW",
                 "status": "fixed",
                 "events": [
+                    {
+                        "introduced": "1:25.3.2.12+dfsg-3",
+                        "fixed": "1:27.3.4.12+dfsg-1"
+                    },
                     {
                         "introduced": "1:25.3.2.12+dfsg-3",
                         "fixed": "1:27.3.4.12+dfsg-1"
@@ -1031,6 +1043,10 @@
                         "fixed": "1:27.3.4.12+dfsg-1"
                     },
                     {
+                        "introduced": "1:25.3.2.12+dfsg-3",
+                        "fixed": "1:27.3.4.12+dfsg-1"
+                    },
+                    {
                         "introduced": "1:25.2.3+dfsg-1+deb12u1",
                         "fixed": "1:27.3.4.12+dfsg-1"
                     }
@@ -1052,6 +1068,10 @@
                         "fixed": "1:27.3.4.12+dfsg-1"
                     },
                     {
+                        "introduced": "1:25.3.2.12+dfsg-3",
+                        "fixed": "1:27.3.4.12+dfsg-1"
+                    },
+                    {
                         "introduced": "1:25.2.3+dfsg-1+deb12u1",
                         "fixed": "1:27.3.4.12+dfsg-1"
                     }
@@ -1064,6 +1084,10 @@
                 "severity": "LOW",
                 "status": "fixed",
                 "events": [
+                    {
+                        "introduced": "1:25.3.2.12+dfsg-3",
+                        "fixed": "1:27.3.4.12+dfsg-1"
+                    },
                     {
                         "introduced": "1:25.3.2.12+dfsg-3",
                         "fixed": "1:27.3.4.12+dfsg-1"

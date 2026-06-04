@@ -10,10 +10,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
                     },
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
+                    },
+                    {
+                        "introduced": "0:5.10.0-1"
                     },
                     {
                         "introduced": "0:5.7.0-1"
@@ -28,10 +31,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
                     },
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
+                    },
+                    {
+                        "introduced": "0:5.10.0-1"
                     },
                     {
                         "introduced": "0:5.7.0-1"
@@ -46,10 +52,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
                     },
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
+                    },
+                    {
+                        "introduced": "0:5.10.0-1"
                     },
                     {
                         "introduced": "0:5.7.0-1"
@@ -66,10 +75,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
                     },
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
+                    },
+                    {
+                        "introduced": "0:5.10.0-1"
                     },
                     {
                         "introduced": "0:5.7.0-1"
@@ -84,10 +96,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
                     },
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
+                    },
+                    {
+                        "introduced": "0:5.10.0-1"
                     },
                     {
                         "introduced": "0:5.7.0-1"
@@ -102,10 +117,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
                     },
                     {
-                        "introduced": "0:5.10.0-1+b3"
+                        "introduced": "0:5.10.0-1"
+                    },
+                    {
+                        "introduced": "0:5.10.0-1"
                     },
                     {
                         "introduced": "0:5.7.0-1"

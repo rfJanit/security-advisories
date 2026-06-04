@@ -6,20 +6,20 @@
                 "cve_id": "CVE-2026-48715",
                 "title": "Title Not Available",
                 "description": "Description Not Available",
-                "severity": "HIGH",
-                "status": "fixed",
+                "severity": "LOW",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "1:2.19-2.1",
-                        "fixed": "1:2.20-1+b1"
+                        "introduced": "1:2.19-2.1"
                     },
                     {
-                        "introduced": "1:2.19-2.1",
-                        "fixed": "1:2.20-1+b1"
+                        "introduced": "1:2.19-2.1"
                     },
                     {
-                        "introduced": "1:2.19-2.1",
-                        "fixed": "1:2.20-1+b1"
+                        "introduced": "1:2.19-2.1"
+                    },
+                    {
+                        "introduced": "1:2.19-1"
                     }
                 ]
             }
@@ -29,20 +29,20 @@
                 "cve_id": "CVE-2026-48715",
                 "title": "Title Not Available",
                 "description": "Description Not Available",
-                "severity": "HIGH",
-                "status": "fixed",
+                "severity": "LOW",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "1:2.19-2.1",
-                        "fixed": "1:2.20-1+b1"
+                        "introduced": "1:2.19-2.1"
                     },
                     {
-                        "introduced": "1:2.19-2.1",
-                        "fixed": "1:2.20-1+b1"
+                        "introduced": "1:2.19-2.1"
                     },
                     {
-                        "introduced": "1:2.19-2.1",
-                        "fixed": "1:2.20-1+b1"
+                        "introduced": "1:2.19-2.1"
+                    },
+                    {
+                        "introduced": "1:2.19-1"
                     }
                 ]
             }

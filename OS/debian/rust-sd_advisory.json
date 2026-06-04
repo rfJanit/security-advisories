@@ -10,13 +10,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:0.80.really.0.7.6-1+deb12u1"
+                        "introduced": "0:0.7.6-1+deb12u1"
                     },
                     {
-                        "introduced": "0:0.80.really.0.7.6-1+deb12u1"
+                        "introduced": "0:0.7.6-1+deb12u1"
                     },
                     {
-                        "introduced": "0:0.80.really.0.7.6-1+deb12u1"
+                        "introduced": "0:0.7.6-1+deb12u1"
+                    },
+                    {
+                        "introduced": "0:0.7.6-1+deb12u1"
                     }
                 ]
             }
@@ -30,13 +33,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:0.80.really.0.7.6-1+deb12u1"
+                        "introduced": "0:0.7.6-1+deb12u1"
                     },
                     {
-                        "introduced": "0:0.80.really.0.7.6-1+deb12u1"
+                        "introduced": "0:0.7.6-1+deb12u1"
                     },
                     {
-                        "introduced": "0:0.80.really.0.7.6-1+deb12u1"
+                        "introduced": "0:0.7.6-1+deb12u1"
+                    },
+                    {
+                        "introduced": "0:0.7.6-1+deb12u1"
                     }
                 ]
             }

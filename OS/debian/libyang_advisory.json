@@ -10,13 +10,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     },
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     },
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     }
                 ]
             },
@@ -28,13 +28,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     },
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     },
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     }
                 ]
             }
@@ -48,13 +48,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     },
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     },
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     }
                 ]
             },
@@ -66,13 +66,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     },
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     },
                     {
-                        "introduced": "0:3.4.2+dfsg-2+b1"
+                        "introduced": "0:3.4.2+dfsg-2"
                     }
                 ]
             }

@@ -10,15 +10,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.73-4"
                     },
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.73-4"
                     },
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.73-4"
                     }
                 ]
@@ -31,15 +31,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.78-1"
                     },
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.78-1"
                     },
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.75-10+deb13u1"
                     },
                     {
@@ -58,15 +58,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.73-4"
                     },
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.73-4"
                     },
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.73-4"
                     }
                 ]
@@ -79,15 +79,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.78-1"
                     },
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.78-1"
                     },
                     {
-                        "introduced": "1:2.66-5+b1",
+                        "introduced": "1:2.66-5",
                         "fixed": "1:2.75-10+deb13u1"
                     },
                     {

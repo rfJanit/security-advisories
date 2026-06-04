@@ -7,23 +7,19 @@
                 "title": "LibreOffice and OpenOffice automatically open embedded content",
                 "description": "LibreOffice and OpenOffice automatically open embedded content",
                 "severity": "MEDIUM",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:7.4.7-1+deb12u8",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:7.4.7-1+deb12u8"
                     }
                 ]
             },
@@ -32,23 +28,19 @@
                 "title": "An information disclosure vulnerability occurs when LibreOffice 6 ...",
                 "description": "An information disclosure vulnerability occurs when LibreOffice 6.0.3 and Apache OpenOffice Writer 4.1.5 automatically process and initiate an SMB connection embedded in a malicious file, as demonstrated by xlink:href=file://192.168.0.2/test.jpg within an office:document-content element in a .odt XML document.",
                 "severity": "HIGH",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:7.4.7-1+deb12u8",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:7.4.7-1+deb12u8"
                     }
                 ]
             },
@@ -168,23 +160,19 @@
                 "title": "LibreOffice and OpenOffice automatically open embedded content",
                 "description": "LibreOffice and OpenOffice automatically open embedded content",
                 "severity": "MEDIUM",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:7.4.7-1+deb12u8",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:7.4.7-1+deb12u8"
                     }
                 ]
             },
@@ -193,23 +181,19 @@
                 "title": "An information disclosure vulnerability occurs when LibreOffice 6 ...",
                 "description": "An information disclosure vulnerability occurs when LibreOffice 6.0.3 and Apache OpenOffice Writer 4.1.5 automatically process and initiate an SMB connection embedded in a malicious file, as demonstrated by xlink:href=file://192.168.0.2/test.jpg within an office:document-content element in a .odt XML document.",
                 "severity": "HIGH",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:24.8.3-3",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:24.8.3-3"
                     },
                     {
-                        "introduced": "4:7.4.7-1+deb12u8",
-                        "fixed": "4:102.12+LibO7.4.7-1+deb12u8"
+                        "introduced": "4:7.4.7-1+deb12u8"
                     }
                 ]
             },

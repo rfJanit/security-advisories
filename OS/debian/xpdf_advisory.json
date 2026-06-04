@@ -10,13 +10,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -28,13 +31,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -46,13 +52,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -64,13 +73,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -82,13 +94,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -100,13 +115,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -118,13 +136,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -136,13 +157,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -154,13 +178,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -172,13 +199,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -190,13 +220,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -208,13 +241,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -226,13 +262,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -244,13 +283,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -262,13 +304,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -280,13 +325,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -298,13 +346,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -316,13 +367,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -334,13 +388,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -352,13 +409,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -370,13 +430,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -388,13 +451,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -406,13 +472,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -424,13 +493,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -442,13 +514,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -460,13 +535,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -478,13 +556,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             }
@@ -498,13 +579,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -516,13 +600,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -534,13 +621,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -552,13 +642,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -570,13 +663,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -588,13 +684,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -606,13 +705,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -624,13 +726,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -642,13 +747,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -660,13 +768,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -678,13 +789,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -696,13 +810,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -714,13 +831,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -732,13 +852,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -750,13 +873,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -768,13 +894,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -786,13 +915,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -804,13 +936,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -822,13 +957,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -840,13 +978,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -858,13 +999,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -876,13 +1020,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -894,13 +1041,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -912,13 +1062,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -930,13 +1083,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -948,13 +1104,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             },
@@ -966,13 +1125,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
                     },
                     {
-                        "introduced": "0:3.04+git20240613-1+b1"
+                        "introduced": "0:3.04+git20240613-1"
+                    },
+                    {
+                        "introduced": "0:3.04+git20220601-1"
                     }
                 ]
             }

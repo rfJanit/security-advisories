@@ -7,23 +7,19 @@
                 "title": "Audiofile v0.3.7 was discovered to contain a NULL pointer derefer ...",
                 "description": "Audiofile v0.3.7 was discovered to contain a NULL pointer dereference via the ModuleState::setup function.",
                 "severity": "HIGH",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "0:0.3.6-7",
-                        "fixed": "0:0.3.6-7+b1"
+                        "introduced": "0:0.3.6-7"
                     },
                     {
-                        "introduced": "0:0.3.6-7",
-                        "fixed": "0:0.3.6-7+b1"
+                        "introduced": "0:0.3.6-7"
                     },
                     {
-                        "introduced": "0:0.3.6-7",
-                        "fixed": "0:0.3.6-7+b1"
+                        "introduced": "0:0.3.6-7"
                     },
                     {
-                        "introduced": "0:0.3.6-5+deb12u1",
-                        "fixed": "0:0.3.6-7+b1"
+                        "introduced": "0:0.3.6-5+deb12u1"
                     }
                 ]
             }
@@ -34,23 +30,19 @@
                 "title": "Audiofile v0.3.7 was discovered to contain a NULL pointer derefer ...",
                 "description": "Audiofile v0.3.7 was discovered to contain a NULL pointer dereference via the ModuleState::setup function.",
                 "severity": "HIGH",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "0:0.3.6-7",
-                        "fixed": "0:0.3.6-7+b1"
+                        "introduced": "0:0.3.6-7"
                     },
                     {
-                        "introduced": "0:0.3.6-7",
-                        "fixed": "0:0.3.6-7+b1"
+                        "introduced": "0:0.3.6-7"
                     },
                     {
-                        "introduced": "0:0.3.6-7",
-                        "fixed": "0:0.3.6-7+b1"
+                        "introduced": "0:0.3.6-7"
                     },
                     {
-                        "introduced": "0:0.3.6-5+deb12u1",
-                        "fixed": "0:0.3.6-7+b1"
+                        "introduced": "0:0.3.6-5+deb12u1"
                     }
                 ]
             }

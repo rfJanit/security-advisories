@@ -22,7 +22,7 @@
                         "fixed": "1:6.0.4-4+deb13u3"
                     },
                     {
-                        "introduced": "1:5.0.2-1+deb12u3+b1",
+                        "introduced": "1:5.0.2-1+deb12u3",
                         "fixed": "1:5.0.2-1+deb12u4"
                     }
                 ]
@@ -49,7 +49,7 @@
                         "fixed": "1:6.0.4-4+deb13u3"
                     },
                     {
-                        "introduced": "1:5.0.2-1+deb12u3+b1",
+                        "introduced": "1:5.0.2-1+deb12u3",
                         "fixed": "1:5.0.2-1+deb12u4"
                     }
                 ]

@@ -4,8 +4,8 @@
         "12": {
             "CVE-2026-48863": {
                 "cve_id": "CVE-2026-48863",
-                "title": "[Unknown description]",
-                "description": "[Unknown description]",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
                 "severity": "HIGH",
                 "status": "fixed",
                 "events": [
@@ -102,8 +102,8 @@
         "13": {
             "CVE-2026-48863": {
                 "cve_id": "CVE-2026-48863",
-                "title": "[Unknown description]",
-                "description": "[Unknown description]",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
                 "severity": "HIGH",
                 "status": "fixed",
                 "events": [

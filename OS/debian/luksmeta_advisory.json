@@ -10,7 +10,7 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:9-4+b2",
+                        "introduced": "0:9-4",
                         "fixed": "0:9-4+deb12u1"
                     }
                 ]
@@ -25,7 +25,7 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:9-4+b2",
+                        "introduced": "0:9-4",
                         "fixed": "0:9-4+deb12u1"
                     }
                 ]

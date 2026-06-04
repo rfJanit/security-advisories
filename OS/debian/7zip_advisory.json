@@ -212,7 +212,7 @@
                 "cve_id": "CVE-2026-48095",
                 "title": "Title Not Available",
                 "description": "Description Not Available",
-                "severity": "HIGH",
+                "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
                     {
@@ -335,9 +335,9 @@
             },
             "CVE-2026-48111": {
                 "cve_id": "CVE-2026-48111",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
-                "severity": "MEDIUM",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
+                "severity": "LOW",
                 "status": "fixed",
                 "events": [
                     {
@@ -360,8 +360,8 @@
             },
             "CVE-2026-48112": {
                 "cve_id": "CVE-2026-48112",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "CVE-2026-48112",
+                "description": "The 7-Zip project, version 26.00, contains various memory access violations, out-of-bounds (OOB) read issues, uninitialized memory vulnerabilities, integer overflow flaws in various archive formats (e.g., 7z, SquashFS, UDF, UEFI, WIM, and Ar), and path traversal in sample app, which could potentially lead to compromising system integrity or accessing sensitive data.",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
@@ -595,7 +595,7 @@
                 "cve_id": "CVE-2026-48095",
                 "title": "Title Not Available",
                 "description": "Description Not Available",
-                "severity": "HIGH",
+                "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
                     {
@@ -718,9 +718,9 @@
             },
             "CVE-2026-48111": {
                 "cve_id": "CVE-2026-48111",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
-                "severity": "MEDIUM",
+                "title": "[Unknown description]",
+                "description": "[Unknown description]",
+                "severity": "LOW",
                 "status": "fixed",
                 "events": [
                     {
@@ -743,8 +743,8 @@
             },
             "CVE-2026-48112": {
                 "cve_id": "CVE-2026-48112",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "CVE-2026-48112",
+                "description": "The 7-Zip project, version 26.00, contains various memory access violations, out-of-bounds (OOB) read issues, uninitialized memory vulnerabilities, integer overflow flaws in various archive formats (e.g., 7z, SquashFS, UDF, UEFI, WIM, and Ar), and path traversal in sample app, which could potentially lead to compromising system integrity or accessing sensitive data.",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [

@@ -10,13 +10,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
                     },
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
                     },
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
+                    },
+                    {
+                        "introduced": "0:2.32.0-1"
                     }
                 ]
             },
@@ -28,13 +31,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
                     },
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
                     },
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
+                    },
+                    {
+                        "introduced": "0:2.32.0-1"
                     }
                 ]
             }
@@ -48,13 +54,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
                     },
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
                     },
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
+                    },
+                    {
+                        "introduced": "0:2.32.0-1"
                     }
                 ]
             },
@@ -66,13 +75,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
                     },
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
                     },
                     {
-                        "introduced": "0:2.32.0-1+b9"
+                        "introduced": "0:2.32.0-1"
+                    },
+                    {
+                        "introduced": "0:2.32.0-1"
                     }
                 ]
             }

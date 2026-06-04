@@ -7,11 +7,19 @@
                 "title": "LibSass 3.6.1 has uncontrolled recursion in Sass::Eval::operator( ...",
                 "description": "LibSass 3.6.1 has uncontrolled recursion in Sass::Eval::operator()(Sass::Binary_Expression*) in eval.cpp.",
                 "severity": "MEDIUM",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.6.5+20220909-1",
-                        "fixed": "0:3.6.5+20231221-3+b1"
+                        "introduced": "0:3.6.5+20231221-3"
+                    },
+                    {
+                        "introduced": "0:3.6.5+20231221-3"
+                    },
+                    {
+                        "introduced": "0:3.6.5+20231221-3"
+                    },
+                    {
+                        "introduced": "0:3.6.5+20220909-1"
                     }
                 ]
             },
@@ -61,11 +69,19 @@
                 "title": "LibSass 3.6.1 has uncontrolled recursion in Sass::Eval::operator( ...",
                 "description": "LibSass 3.6.1 has uncontrolled recursion in Sass::Eval::operator()(Sass::Binary_Expression*) in eval.cpp.",
                 "severity": "MEDIUM",
-                "status": "fixed",
+                "status": "open",
                 "events": [
                     {
-                        "introduced": "0:3.6.5+20220909-1",
-                        "fixed": "0:3.6.5+20231221-3+b1"
+                        "introduced": "0:3.6.5+20231221-3"
+                    },
+                    {
+                        "introduced": "0:3.6.5+20231221-3"
+                    },
+                    {
+                        "introduced": "0:3.6.5+20231221-3"
+                    },
+                    {
+                        "introduced": "0:3.6.5+20220909-1"
                     }
                 ]
             },

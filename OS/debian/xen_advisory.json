@@ -10,16 +10,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -31,16 +31,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -52,32 +52,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
-                        "fixed": "0:4.17.5+23-ga4e5191dc0-1"
-                    }
-                ]
-            },
-            "CVE-2023-46841": {
-                "cve_id": "CVE-2023-46841",
-                "title": "Recent x86 CPUs offer functionality named Control-flow Enforcemen ...",
-                "description": "Recent x86 CPUs offer functionality named Control-flow Enforcement\nTechnology (CET).  A sub-feature of this are Shadow Stacks (CET-SS).\nCET-SS is a hardware feature designed to protect against Return Oriented\nProgramming attacks. When enabled, traditional stacks holding both data\nand return addresses are accompanied by so called \"shadow stacks\",\nholding little more than return addresses.  Shadow stacks aren't\nwritable by normal instructions, and upon function returns their\ncontents are used to check for possible manipulation of a return address\ncoming from the traditional stack.\n\nIn particular certain memory accesses need intercepting by Xen.  In\nvarious cases the necessary emulation involves kind of replaying of\nthe instruction.  Such replaying typically involves filling and then\ninvoking of a stub.  Such a replayed instruction may raise an\nexceptions, which is expected and dealt with accordingly.\n\nUnfortunately the interaction of both of the above wasn't right:\nRecovery involves removal of a call frame from the (traditional) stack.\nThe counterpart of this operation for the shadow stack was missing.",
-                "severity": "MEDIUM",
-                "status": "fixed",
-                "events": [
-                    {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -90,19 +77,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -115,19 +102,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -140,19 +127,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -165,19 +152,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -190,19 +177,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -215,19 +202,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -240,19 +227,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -265,19 +252,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -290,19 +277,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -315,19 +302,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -340,19 +327,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -365,19 +352,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -390,19 +377,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -415,19 +402,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.0-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.0-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.0-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -440,19 +427,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -465,19 +452,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -490,16 +477,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -511,16 +498,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -532,19 +519,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -557,19 +544,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -582,19 +569,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -607,19 +594,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -632,19 +619,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -657,19 +644,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -682,19 +669,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -707,19 +694,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-0+deb13u1"
                     }
                 ]
@@ -732,19 +719,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-0+deb13u1"
                     }
                 ]
@@ -757,16 +744,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -778,13 +765,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -796,16 +783,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -817,16 +804,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -838,16 +825,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             }
@@ -861,16 +848,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -882,16 +869,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -903,32 +890,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
-                        "fixed": "0:4.17.5+23-ga4e5191dc0-1"
-                    }
-                ]
-            },
-            "CVE-2023-46841": {
-                "cve_id": "CVE-2023-46841",
-                "title": "Recent x86 CPUs offer functionality named Control-flow Enforcemen ...",
-                "description": "Recent x86 CPUs offer functionality named Control-flow Enforcement\nTechnology (CET).  A sub-feature of this are Shadow Stacks (CET-SS).\nCET-SS is a hardware feature designed to protect against Return Oriented\nProgramming attacks. When enabled, traditional stacks holding both data\nand return addresses are accompanied by so called \"shadow stacks\",\nholding little more than return addresses.  Shadow stacks aren't\nwritable by normal instructions, and upon function returns their\ncontents are used to check for possible manipulation of a return address\ncoming from the traditional stack.\n\nIn particular certain memory accesses need intercepting by Xen.  In\nvarious cases the necessary emulation involves kind of replaying of\nthe instruction.  Such replaying typically involves filling and then\ninvoking of a stub.  Such a replayed instruction may raise an\nexceptions, which is expected and dealt with accordingly.\n\nUnfortunately the interaction of both of the above wasn't right:\nRecovery involves removal of a call frame from the (traditional) stack.\nThe counterpart of this operation for the shadow stack was missing.",
-                "severity": "MEDIUM",
-                "status": "fixed",
-                "events": [
-                    {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -941,19 +915,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -966,19 +940,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -991,19 +965,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -1016,19 +990,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1041,19 +1015,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -1066,19 +1040,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -1091,19 +1065,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -1116,19 +1090,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -1141,19 +1115,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1166,19 +1140,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1191,19 +1165,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -1216,19 +1190,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -1241,19 +1215,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.19.1-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+23-ga4e5191dc0-1"
                     }
                 ]
@@ -1266,19 +1240,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.0-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.0-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.0-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1291,19 +1265,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1316,19 +1290,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1341,16 +1315,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -1362,16 +1336,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -1383,19 +1357,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1408,19 +1382,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1433,19 +1407,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1458,19 +1432,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1483,19 +1457,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1508,19 +1482,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1533,19 +1507,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+7-g1badcf5035-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.17.5+72-g01140da4e8-1"
                     }
                 ]
@@ -1558,19 +1532,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-0+deb13u1"
                     }
                 ]
@@ -1583,19 +1557,19 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-0+deb13u1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1",
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1",
                         "fixed": "0:4.20.2+37-g61ff35323e-0+deb13u1"
                     }
                 ]
@@ -1608,16 +1582,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -1629,13 +1603,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -1647,16 +1621,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -1668,16 +1642,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             },
@@ -1689,16 +1663,16 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     },
                     {
-                        "introduced": "0:4.17.3+36-g54dacb5c02-1+b1"
+                        "introduced": "0:4.17.3+36-g54dacb5c02-1"
                     }
                 ]
             }

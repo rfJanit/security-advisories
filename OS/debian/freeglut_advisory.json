@@ -19,8 +19,7 @@
                         "introduced": "0:3.4.0-4"
                     },
                     {
-                        "introduced": "0:3.4.0-1",
-                        "fixed": "0:3.4.0-1+b2"
+                        "introduced": "0:3.4.0-1"
                     }
                 ]
             },
@@ -41,8 +40,7 @@
                         "introduced": "0:3.4.0-4"
                     },
                     {
-                        "introduced": "0:3.4.0-1",
-                        "fixed": "0:3.4.0-1+b2"
+                        "introduced": "0:3.4.0-1"
                     }
                 ]
             }
@@ -65,8 +63,7 @@
                         "introduced": "0:3.4.0-4"
                     },
                     {
-                        "introduced": "0:3.4.0-1",
-                        "fixed": "0:3.4.0-1+b2"
+                        "introduced": "0:3.4.0-1"
                     }
                 ]
             },
@@ -87,8 +84,7 @@
                         "introduced": "0:3.4.0-4"
                     },
                     {
-                        "introduced": "0:3.4.0-1",
-                        "fixed": "0:3.4.0-1+b2"
+                        "introduced": "0:3.4.0-1"
                     }
                 ]
             }

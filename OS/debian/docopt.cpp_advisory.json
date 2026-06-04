@@ -10,13 +10,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:0.6.3-4+b2"
+                        "introduced": "0:0.6.3-4"
                     },
                     {
-                        "introduced": "0:0.6.3-4+b2"
+                        "introduced": "0:0.6.3-4"
                     },
                     {
-                        "introduced": "0:0.6.3-4+b2"
+                        "introduced": "0:0.6.3-4"
                     },
                     {
                         "introduced": "0:0.6.2-2.3"
@@ -33,13 +33,13 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:0.6.3-4+b2"
+                        "introduced": "0:0.6.3-4"
                     },
                     {
-                        "introduced": "0:0.6.3-4+b2"
+                        "introduced": "0:0.6.3-4"
                     },
                     {
-                        "introduced": "0:0.6.3-4+b2"
+                        "introduced": "0:0.6.3-4"
                     },
                     {
                         "introduced": "0:0.6.2-2.3"

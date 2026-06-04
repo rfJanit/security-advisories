@@ -67,8 +67,8 @@
             },
             "CVE-2026-2049": {
                 "cve_id": "CVE-2026-2049",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "[ZDI-CAN-28618: New Vulnerability Report at rgbe.c]",
+                "description": "[ZDI-CAN-28618: New Vulnerability Report at rgbe.c]",
                 "severity": "HIGH",
                 "status": "fixed",
                 "events": [
@@ -92,8 +92,8 @@
             },
             "CVE-2026-2050": {
                 "cve_id": "CVE-2026-2050",
-                "title": "Amazon Linux 2 2017.12 - ALAS2-2026-3183: important priority package update for gegl",
-                "description": "When parsing an HDR image file, the function [rgbe_read_new_rle gegl/libs/rgbe/rgbe.c] contains HEAP Based Buffer Overflow vulnerability that can lead to remote code execution.",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [
@@ -182,8 +182,8 @@
             },
             "CVE-2026-2049": {
                 "cve_id": "CVE-2026-2049",
-                "title": "Title Not Available",
-                "description": "Description Not Available",
+                "title": "[ZDI-CAN-28618: New Vulnerability Report at rgbe.c]",
+                "description": "[ZDI-CAN-28618: New Vulnerability Report at rgbe.c]",
                 "severity": "HIGH",
                 "status": "fixed",
                 "events": [
@@ -207,8 +207,8 @@
             },
             "CVE-2026-2050": {
                 "cve_id": "CVE-2026-2050",
-                "title": "Amazon Linux 2 2017.12 - ALAS2-2026-3183: important priority package update for gegl",
-                "description": "When parsing an HDR image file, the function [rgbe_read_new_rle gegl/libs/rgbe/rgbe.c] contains HEAP Based Buffer Overflow vulnerability that can lead to remote code execution.",
+                "title": "Title Not Available",
+                "description": "Description Not Available",
                 "severity": "MEDIUM",
                 "status": "fixed",
                 "events": [

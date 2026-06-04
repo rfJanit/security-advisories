@@ -10,7 +10,11 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:2.10.1-2+b1",
+                        "introduced": "0:2.10.1-2",
+                        "fixed": "0:2.12.0-1"
+                    },
+                    {
+                        "introduced": "0:2.10.1-2",
                         "fixed": "0:2.12.0-1"
                     },
                     {
@@ -27,7 +31,10 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.10.1-2+b1"
+                        "introduced": "0:2.10.1-2"
+                    },
+                    {
+                        "introduced": "0:2.10.1-2"
                     }
                 ]
             }
@@ -41,7 +48,11 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:2.10.1-2+b1",
+                        "introduced": "0:2.10.1-2",
+                        "fixed": "0:2.12.0-1"
+                    },
+                    {
+                        "introduced": "0:2.10.1-2",
                         "fixed": "0:2.12.0-1"
                     },
                     {
@@ -58,7 +69,10 @@
                 "status": "open",
                 "events": [
                     {
-                        "introduced": "0:2.10.1-2+b1"
+                        "introduced": "0:2.10.1-2"
+                    },
+                    {
+                        "introduced": "0:2.10.1-2"
                     }
                 ]
             }

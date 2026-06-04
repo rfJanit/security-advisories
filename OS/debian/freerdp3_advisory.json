@@ -10,15 +10,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1"
                     }
                 ]
@@ -31,15 +31,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -52,15 +52,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -73,15 +73,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -94,15 +94,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -115,15 +115,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -136,15 +136,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -157,15 +157,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -178,15 +178,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -199,15 +199,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -220,15 +220,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -241,15 +241,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -262,15 +262,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -283,15 +283,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -304,15 +304,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -325,15 +325,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -346,15 +346,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -367,15 +367,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -388,15 +388,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -409,15 +409,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -430,15 +430,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -451,15 +451,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -472,15 +472,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -493,15 +493,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -514,15 +514,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -535,15 +535,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -556,15 +556,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -577,15 +577,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -598,15 +598,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -619,15 +619,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -640,15 +640,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -661,15 +661,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -682,15 +682,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -703,15 +703,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -724,15 +724,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -745,15 +745,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -766,15 +766,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -787,15 +787,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -808,15 +808,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -829,15 +829,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -850,15 +850,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -871,15 +871,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -892,15 +892,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -913,15 +913,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     }
                 ]
@@ -934,15 +934,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     }
                 ]
@@ -955,15 +955,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -976,15 +976,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -997,15 +997,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1018,15 +1018,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1039,15 +1039,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1060,15 +1060,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1081,15 +1081,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1102,15 +1102,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1123,15 +1123,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1144,15 +1144,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1165,15 +1165,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1186,15 +1186,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1207,15 +1207,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1228,15 +1228,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1249,15 +1249,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1270,15 +1270,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1291,15 +1291,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -1312,15 +1312,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -1333,15 +1333,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.25.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.25.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u3"
                     }
                 ]
@@ -1354,15 +1354,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -1375,15 +1375,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -1396,15 +1396,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -1417,15 +1417,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -1440,15 +1440,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1"
                     }
                 ]
@@ -1461,15 +1461,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1482,15 +1482,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1503,15 +1503,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1524,15 +1524,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1545,15 +1545,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1566,15 +1566,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1587,15 +1587,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1608,15 +1608,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1629,15 +1629,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.20.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1650,15 +1650,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1671,15 +1671,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1692,15 +1692,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1713,15 +1713,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1734,15 +1734,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1755,15 +1755,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1776,15 +1776,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1797,15 +1797,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.21.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1818,15 +1818,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1839,15 +1839,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1860,15 +1860,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1881,15 +1881,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1902,15 +1902,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1923,15 +1923,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1944,15 +1944,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1965,15 +1965,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -1986,15 +1986,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2007,15 +2007,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2028,15 +2028,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2049,15 +2049,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.22.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2070,15 +2070,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2091,15 +2091,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2112,15 +2112,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2133,15 +2133,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2154,15 +2154,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2175,15 +2175,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2196,15 +2196,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2217,15 +2217,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2238,15 +2238,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2259,15 +2259,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2280,15 +2280,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2301,15 +2301,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2322,15 +2322,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u1"
                     }
                 ]
@@ -2343,15 +2343,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     }
                 ]
@@ -2364,15 +2364,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.23.0+dfsg-1"
                     }
                 ]
@@ -2385,15 +2385,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2406,15 +2406,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2427,15 +2427,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2448,15 +2448,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2469,15 +2469,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2490,15 +2490,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2511,15 +2511,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2532,15 +2532,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2553,15 +2553,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2574,15 +2574,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2595,15 +2595,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2616,15 +2616,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2637,15 +2637,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2658,15 +2658,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2679,15 +2679,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2700,15 +2700,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2721,15 +2721,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.24.2+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u2"
                     }
                 ]
@@ -2742,15 +2742,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -2763,15 +2763,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.25.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.25.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.15.0+dfsg-2.1+deb13u3"
                     }
                 ]
@@ -2784,15 +2784,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -2805,15 +2805,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -2826,15 +2826,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]
@@ -2847,15 +2847,15 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     },
                     {
-                        "introduced": "0:3.6.3+dfsg1-2+b1",
+                        "introduced": "0:3.6.3+dfsg1-2",
                         "fixed": "0:3.26.0+dfsg-1"
                     }
                 ]

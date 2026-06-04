@@ -10,7 +10,7 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:0.9.2-3.1+b2",
+                        "introduced": "0:0.9.2-3.1",
                         "fixed": "0:0.9.2-3.1+deb12u1"
                     }
                 ]
@@ -42,7 +42,7 @@
                 "status": "fixed",
                 "events": [
                     {
-                        "introduced": "0:0.9.2-3.1+b2",
+                        "introduced": "0:0.9.2-3.1",
                         "fixed": "0:0.9.2-3.1+deb12u1"
                     }
                 ]
